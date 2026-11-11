@@ -11,13 +11,15 @@
 ```
 本リポジトリ
 │
-├─ common.md # コード支援系AIに渡す各プロジェクト共通のプロンプト
+├─ common.md         # コード支援系AIに渡す各プロジェクト共通のプロンプト
 │
-├─ prompt.md # コード支援系AIに渡す各プロジェクト固有のプロンプトのメモ
+├─ prompt_example.md # 過去に各プロジェクトで使用したプロンプト
 │
-├─ LICENSE   # ライセンスファイル
+├─ prompt.md         # コード支援系AIに渡す各プロジェクト固有のプロンプトのメモ
 │
-├─ README.md # 本ファイル
+├─ LICENSE           # ライセンスファイル
+│
+├─ README.md         # 本ファイル
 │
 ```
 
@@ -105,4 +107,4 @@ pip install torch torchvision --index-url https://download.pytorch.org/whl/cu118
 
 ## 最終更新
 
-2026年11月05日．
+2026年11月11日．
