@@ -107,4 +107,4 @@ pip install torch torchvision --index-url https://download.pytorch.org/whl/cu118
 
 ## 最終更新
 
-2026年11月11日．
+2026年11月13日．
